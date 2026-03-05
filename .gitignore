@@ -30,3 +30,8 @@ uploads/*
 # Testing
 coverage/
 .nyc_output/
+
+# Databases
+*.sqlite
+database.sqlite
+backend/database.sqlite
