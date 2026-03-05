@@ -1,0 +1,61 @@
+--- Duplicates WITHIN Sections ---
+codingProducts.js: None
+generalProducts.js: None
+videoEditingProducts.js: ["Intel Core i9-14900K"]
+
+--- Duplicates ACROSS Sections ---
+Intel Core i3-12100 is in: codingProducts.js, generalProducts.js
+AMD Ryzen 7 7800X3D is in: codingProducts.js, generalProducts.js, videoEditingProducts.js
+AMD Ryzen 5 5600 is in: codingProducts.js, videoEditingProducts.js
+Intel Core i5-13400 is in: codingProducts.js, videoEditingProducts.js
+AMD Ryzen 7 7700X is in: codingProducts.js, generalProducts.js, videoEditingProducts.js
+Intel Core i7-13700 is in: codingProducts.js, videoEditingProducts.js
+AMD Ryzen 9 7950X is in: codingProducts.js, videoEditingProducts.js
+NVIDIA GTX 1650 is in: codingProducts.js, videoEditingProducts.js
+AMD Radeon RX 6600 is in: codingProducts.js, videoEditingProducts.js
+NVIDIA RTX 3060 is in: codingProducts.js, videoEditingProducts.js
+NVIDIA RTX 4070 is in: codingProducts.js, videoEditingProducts.js
+NVIDIA RTX 3070 is in: codingProducts.js, videoEditingProducts.js
+NVIDIA RTX 4090 is in: codingProducts.js, videoEditingProducts.js
+ASUS Prime B450M-A is in: codingProducts.js, videoEditingProducts.js
+MSI B550 Tomahawk is in: codingProducts.js, videoEditingProducts.js
+Gigabyte B760 Aorus Elite is in: codingProducts.js, videoEditingProducts.js
+ASUS ROG Strix B650E is in: codingProducts.js, videoEditingProducts.js
+MSI MAG Z690 Tomahawk is in: codingProducts.js, videoEditingProducts.js
+ASUS ROG Maximus Z790 Extreme is in: codingProducts.js, videoEditingProducts.js
+Corsair Vengeance 16GB DDR4 is in: codingProducts.js, generalProducts.js, videoEditingProducts.js
+Kingston Fury 16GB DDR5 is in: codingProducts.js, videoEditingProducts.js
+G.Skill Ripjaws 32GB DDR4 is in: codingProducts.js, videoEditingProducts.js
+Corsair Vengeance RGB 32GB DDR5 is in: codingProducts.js, videoEditingProducts.js
+G.Skill Trident Z5 32GB DDR5 is in: codingProducts.js, videoEditingProducts.js
+Corsair Dominator Platinum 128GB DDR5 is in: codingProducts.js, videoEditingProducts.js
+Samsung 980 1TB SSD is in: codingProducts.js, videoEditingProducts.js
+WD Black SN770 1TB is in: codingProducts.js, videoEditingProducts.js
+Samsung 990 Pro 2TB is in: codingProducts.js, videoEditingProducts.js
+Seagate FireCuda 4TB is in: codingProducts.js, videoEditingProducts.js
+Samsung 870 QVO 8TB is in: codingProducts.js, videoEditingProducts.js
+Crucial P5 Plus 2TB SSD is in: codingProducts.js, videoEditingProducts.js
+Corsair CV650 is in: codingProducts.js, videoEditingProducts.js
+Cooler Master MWE Gold 750W is in: codingProducts.js, videoEditingProducts.js
+Corsair RM850x is in: codingProducts.js, videoEditingProducts.js
+Seasonic Focus GX-1000 is in: codingProducts.js, videoEditingProducts.js
+Corsair HX1000 is in: codingProducts.js, videoEditingProducts.js
+Corsair AX1600i is in: codingProducts.js, videoEditingProducts.js
+Cooler Master MasterBox Q300L is in: codingProducts.js, videoEditingProducts.js
+NZXT H510 is in: codingProducts.js, videoEditingProducts.js
+Corsair 4000D Airflow is in: codingProducts.js, videoEditingProducts.js
+Lian Li Lancool III is in: codingProducts.js, videoEditingProducts.js
+Fractal Design Meshify 2 is in: codingProducts.js, videoEditingProducts.js
+Thermaltake Tower 900 is in: codingProducts.js, videoEditingProducts.js
+Cooler Master Hyper 212 is in: codingProducts.js, videoEditingProducts.js
+DeepCool AK620 is in: codingProducts.js, videoEditingProducts.js
+Noctua NH-D15 is in: codingProducts.js, videoEditingProducts.js
+Corsair H100i is in: codingProducts.js, videoEditingProducts.js
+NZXT Kraken X73 is in: codingProducts.js, videoEditingProducts.js
+Corsair iCUE H150i Elite is in: codingProducts.js, videoEditingProducts.js
+Logitech G102 is in: codingProducts.js, videoEditingProducts.js
+Redragon K552 is in: codingProducts.js, videoEditingProducts.js
+HyperX Cloud Stinger is in: codingProducts.js, videoEditingProducts.js
+Logitech MX Master 3 is in: codingProducts.js, videoEditingProducts.js
+Keychron K8 Pro is in: codingProducts.js, videoEditingProducts.js
+G.Skill Trident Z5 RGB 64GB is in: codingProducts.js, generalProducts.js, videoEditingProducts.js
